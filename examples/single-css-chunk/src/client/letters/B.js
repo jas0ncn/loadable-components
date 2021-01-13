@@ -5,7 +5,7 @@ import moment from 'moment'
 // sub loadable
 import loadable from '@loadable/component'
 
-const SubB1 = loadable(() => import('./sub/B1'))
+const SubB1 = loadable(() => import('./B1'))
 
 const B = () => (
   <>

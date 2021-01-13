@@ -1,7 +1,7 @@
 // We simulate that "moment" is called in "A" and "B"
 import moment from 'moment'
 import './A.css'
-import './sub/a-big-css.css'
+import './a-big-css.css'
 
 const A = () => 'A'
 
